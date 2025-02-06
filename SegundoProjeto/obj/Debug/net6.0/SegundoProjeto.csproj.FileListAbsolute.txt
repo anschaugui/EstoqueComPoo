@@ -1,0 +1,15 @@
+C:\projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net6.0\SegundoProjeto.exe
+C:\projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net6.0\SegundoProjeto.deps.json
+C:\projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net6.0\SegundoProjeto.runtimeconfig.json
+C:\projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net6.0\SegundoProjeto.dll
+C:\projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net6.0\SegundoProjeto.pdb
+C:\projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.AssemblyInfo.cs
+C:\projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.sourcelink.json
+C:\projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.dll
+C:\projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net6.0\refint\SegundoProjeto.dll
+C:\projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.pdb
+C:\projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net6.0\SegundoProjeto.genruntimeconfig.cache
+C:\projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net6.0\ref\SegundoProjeto.dll
